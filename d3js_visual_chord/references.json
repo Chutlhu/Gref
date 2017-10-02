@@ -1,0 +1,1627 @@
+[{
+    "size": 11,
+    "name": "1.1.1.1.1",
+    "imports": ["10.1073/pnas.1221464110",
+      "10.1109/ICASSP.2009.4960289",
+      "10.1007/s11222-014-9461-5",
+      "10.1109/TSP.2015.2480045",
+      "10.1109/ICASSP.2014.6854168",
+      "10.1142/S0129065714400036",
+      "10.1007/978-3-319-53547-0_7",
+      "10.1109/ICASSP.2017.7952151",
+      "10.1109/EUSIPCO.2015.7362417",
+      "10.1109/EUSIPCO.2016.7760450",
+      "10.1109/TASLP.2017.2696310"
+    ],
+    "title": "PhDliterature"
+  },
+
+  {
+    "size": 22,
+    "name": "10.1073/pnas.1221464110",
+    "imports": ["10.1121/1.382599",
+      "10.1142/s0129065714400036",
+      "10.1007/s11222-014-9461-5",
+      "10.1109/taslp.2015.2405475",
+      "10.1016/j.apacoust.2014.10.004",
+      "10.1121/1.412407",
+      "10.1109/iros.2006.281849",
+      "10.1109/icassp.2017.7952151",
+      "10.1109/icassp.2014.6854168",
+      "10.1109/tasl.2010.2050718",
+      "10.1109/icassp.2015.7178461",
+      "10.1121/1.3111860",
+      "10.1109/taslp.2016.2521486", "10.1121/1.1923368", "10.1109/humanoids.2012.6651509", "10.1109/icassp.2009.4959565", "10.1121/1.1909343", "10.1121/1.1872572", "10.1109/aspaa.2011.6082267", "10.1002/9781119991298.ch14",
+      "10.1121/1.2908264",
+      "10.1109/icassp.2011.5946441"
+    ],
+    "title": "Gaultier, Kataria, Deleforge_2017_VAST The virtual acoustic space traveler dataset"
+  },
+
+  {
+    "size": 52,
+    "name": "10.1109/ICASSP.2009.4960289",
+    "imports": ["10.5860/choice.35-0346", "10.1109/tnn.2007.913988", "10.1145/2157689.2157834", "10.1121/1.1907229", "10.1162/0899766054322964", "10.1080/14786440709463595", "10.1146/annurev.psych.42.1.135", "10.2307/1418548", "10.1121/1.422784", "10.1017/s0263574709990865", "10.1109/waspaa.2013.6701849", "10.1109/icassp.2010.5496242", "10.1007/978-3-642-28551-6_46", "10.1109/tasl.2012.2183869", "10.1109/tsp.2004.828896", "10.1002/9780470723494.ch7", "10.1142/9789814291279_0053", "10.1109/ciisp.2007.369192", "10.1109/iros.2006.281849", "10.1038/1633", "10.1080/14992020600783004", "10.1162/neco.2007.12-05-094", "10.1017/cbo9781107252950.038", "10.1017/s0140525x01000115", "10.1037/h0040546", "10.1109/mlsp.2012.6349784", "10.1109/icassp.2013.6637612", "10.1109/ciss.2013.6552257", "10.1007/978-3-642-15995-4_14", "10.1016/b978-0-12-374726-6.00003-5", "10.1109/tasl.2010.2050716", "10.1109/tasl.2009.2029711", "10.1007/11752790_2", "10.2307/2290563", "10.1198/106186008x345161", "10.1016/0167-9473(89)90043-1", "10.1016/0893-6080(95)00014-3", "10.1109/icassp.1998.674423", "10.1109/89.661472", "10.1016/j.specom.2007.09.001", "10.1109/icassp.2009.4960483", "10.1007/s11222-014-9461-5", "10.1121/1.3111860", "10.6028/nist.ir.4930", "10.1109/aspaa.2011.6082267", "10.1137/s1064827502419154", "10.1214/06-ba126", "10.1109/tsmcb.2002.804369", "10.1109/icdsp.2013.6622780", "10.1109/tsa.2004.838775", "10.1109/aspaa.2007.4393012", "10.1109/tsa.2005.858005"],
+    "title": "Deleforge, Forbes, Horaud_2015_Acoustic Space Learning for Sound-Source Separation and Localization on Binaural Manifolds"
+  },
+  {
+    "size": 42,
+    "name": "10.1007/s11222-014-9461-5",
+    "imports": ["10.1098/rsta.2009.0110", "10.1145/1015330.1015343", "10.1109/tpami.2006.21", "10.1.1.113.3448", "10.1029/2008JE003171", "10.1126/science.1108806", "10.1162/089976698300017953", "10.1016/j.patrec.2011.07.017", "10.1214/088342306000000682", "10.1016/0167-9473(89)90043-1", "10.1109/mlsp.2012.6349784", "10.1142/s0129065714400036", "adsabs.harvard.edu/abs/2007LPI....38.1836D", "10.1371/journal.pcbi.1002330", "10.1111/j.1749-6632.1997.tb51651.x", "10.1.1.48.7824", "10.1007/s00357-012-9114-3", "10.1080/10705519609540044", "10.1109/ICASSP.1998.674423", "arXiv:1206.4560", "10.1.1.66.8581", "10.1080/01621459.1991.10475035", "10.1007/bfb0033290", "10.1016/S0167-9473(02)00183-4", "10.1093/biomet/80.2.267", "10.1111/1467-9868.00082", "10.1111/1467-9868.00262", "10.1109/icassp.2009.4960483", "10.1080/01621459.1978.10480085", "10.1007/11752790_2", "10.1023/B:STCO.0000035301.49549.88", "10.1109/aspaa.2011.6082267", "10.1007/11744078_10", "10.1162/15324430152748236", "10.1162/089976699300016728", "10.1111/1467-9868.00196", "10.1007/978-1-4615-5703-6_3", "arXiv:1212.6246", "10.1007/bf02296193", "10.1198/106186008X345161", "oai:CiteSeerX.psu:10.1.1.59.935", "10.1109/TNN.2008.2003467"],
+    "title": "Deleforge, Forbes, Horaud_2015_High-dimensional regression with gaussian mixtures and partially-latent response variables"
+  },
+  {
+    "size": 60,
+    "name": "10.1109/TSP.2015.2480045",
+    "imports": ["10.1016/s0921-8890(99)00002-0", "10.1088/0266-5611/25/12/123005", "10.1109/msp.2008.923099", "10.1016/c2011-0-07261-7", "10.1016/b978-1-4832-0011-8.50001-x", "10.1007/978-0-8176-4948-7_7", "10.1007/0-387-21827-0_6", "10.1109/78.258082", "10.1016/j.acha.2012.03.006", "10.1088/0266-5611/23/3/007", "10.1117/12.826663", "10.1109/tbme.2007.905408", "10.1137/090757034", "10.1109/taslp.2013.2297012", "10.1109/icassp.2012.6287804", "10.1109/icassp.2012.6288453", "10.1109/icassp.2012.6289141", "10.1109/iwaenc.2014.6953349", "10.1109/icassp.2014.6854168", "10.1561/2200000016", "10.1109/79.985676", "10.1109/tsp.2004.838930", "10.1109/icassp.2016.7472897", "10.1109/mlsp.2014.6958871", "10.1090/gsm/019/01", "10.1137/s1064827596304010", "10.1016/b978-1-85617-678-1.00012-0", "10.1007/978-3-540-72582-4", "10.21437/interspeech.2016-773", "10.2514/6.2006-2714", "10.1109/icassp.2008.4518142", "10.1007/978-94-011-3846-8", "10.3813/aaa.918107", "10.1137/1.9780898717839", "10.1109/icassp.2014.6854495", "10.1006/nimg.1999.0454", "10.1007/bf02343542", "10.1109/tbme.1972.324138", "10.1007/s10851-010-0251-1", "10.1007/s11228-011-0191-y", "10.1007/s10957-012-0245-9", "10.1007/978-1-4419-9569-8_10", "10.7554/elife.00184.003", "10.1145/1391989.1391995", "10.1137/1007028", "10.1007/bf01581204", "10.1137/10079687x", "10.1190/1.2215356", "10.1137/0602010", "10.1007/978-1-4612-1474-8_8", "10.2307/3619868", "10.1007/s004220050191", "10.1002/nav.3800020109", "10.1145/1390156.1390273", "10.1137/1.9780898717655.ch12", "10.1137/s1064827502405094", "10.1109/jstsp.2015.2400412", "10.1109/mlsp.2014.6958871", "10.1137/1.9780898717938", "10.1117/12.893811"],
+    "title": "Kitic_2016_Physics-driven inverse problems made tractable with cosparse regularization"
+  },
+  {
+    "size": 18,
+    "name": "10.1109/ICASSP.2014.6854168",
+    "imports": ["10.1109/78.934132", "10.1017/cbo9780511666926.006", "10.5075/epfl-thesis-2408", "10.1016/j.ultras.2013.06.009", "9780849394553", "10.1109/icassp.2012.6288453", "10.1109/icassp.2012.6289141", "10.1007/978-3-540-48830-9_2", "10.1.1.183.1395", "http://dx.name.org/10.1016/j.acha.2012.03.006", "10.1137/s0097539792240406", "10.1.1.411.7495", "10.1.1.310.3891", "10.1109/camsap.2011.6136026", "10.1007/978-1-4471-4075-7_4", "10.1007/978-1-4757-4532-0", "10.1561/2200000016", "10.1109/robot.2002.1013493"],
+    "title": "Kitic, Bertin, Gribonval_2014_Hearing behind walls Localizing sources in the room next door with cosparsity"
+  },
+  {
+    "size": 52,
+    "name": "10.1142/S0129065714400036",
+    "imports": ["10.5860/choice.35-0346", "10.1109/tnn.2007.913988", "10.1145/2157689.2157834", "10.1121/1.1907229", "10.1162/0899766054322964", "10.1080/14786440709463595", "10.1146/annurev.psych.42.1.135", "10.2307/1418548", "10.1121/1.422784", "10.1017/s0263574709990865", "10.1109/waspaa.2013.6701849", "10.1109/icassp.2010.5496242", "10.1007/978-3-642-28551-6_46", "10.1109/tasl.2012.2183869", "10.1109/tsp.2004.828896", "10.1002/9780470723494.ch7", "10.1142/9789814291279_0053", "10.1109/ciisp.2007.369192", "10.1109/iros.2006.281849", "10.1038/1633", "10.1080/14992020600783004", "10.1162/neco.2007.12-05-094", "10.1017/cbo9781107252950.038", "10.1017/s0140525x01000115", "10.1037/h0040546", "10.1109/mlsp.2012.6349784", "10.1109/icassp.2013.6637612", "10.1109/ciss.2013.6552257", "10.1007/978-3-642-15995-4_14", "10.1016/b978-0-12-374726-6.00003-5", "10.1109/tasl.2010.2050716", "10.1109/tasl.2009.2029711", "10.1007/11752790_2", "10.2307/2290563", "10.1198/106186008x345161", "10.1016/0167-9473(89)90043-1", "10.1016/0893-6080(95)00014-3", "10.1109/icassp.1998.674423", "10.1109/89.661472", "10.1016/j.specom.2007.09.001", "10.1109/icassp.2009.4960483", "10.1007/s11222-014-9461-5", "10.1121/1.3111860", "10.6028/nist.ir.4930", "10.1109/aspaa.2011.6082267", "10.1137/s1064827502419154", "10.1214/06-ba126", "10.1109/tsmcb.2002.804369", "10.1109/icdsp.2013.6622780", "10.1109/tsa.2004.838775", "10.1109/aspaa.2007.4393012", "10.1109/tsa.2005.858005"],
+    "title": "Deleforge, Forbes, Horaud_2015_Acoustic Space Learning for Sound-Source Separation and Localization on Binaural Manifolds"
+  },
+  {
+    "size": 22,
+    "name": "10.1007/978-3-319-53547-0_7",
+    "imports": ["10.1121/1.382599", "10.1142/s0129065714400036", "10.1007/s11222-014-9461-5", "10.1109/taslp.2015.2405475", "10.1016/j.apacoust.2014.10.004", "10.1121/1.412407", "10.1109/iros.2006.281849", "10.1109/icassp.2017.7952151", "10.1109/icassp.2014.6854168", "10.1109/tasl.2010.2050718", "10.1109/icassp.2015.7178461", "10.1121/1.3111860", "10.1109/taslp.2016.2521486", "10.1121/1.1923368", "10.1109/humanoids.2012.6651509", "10.1109/icassp.2009.4959565", "10.1121/1.1909343", "10.1121/1.1872572", "10.1109/aspaa.2011.6082267", "10.1002/9781119991298.ch14", "10.1121/1.2908264", "10.1109/icassp.2011.5946441"],
+    "title": "Gaultier, Kataria, Deleforge_2017_VAST The virtual acoustic space traveler dataset"
+  },
+  {
+    "size": 21,
+    "name": "10.1109/ICASSP.2017.7952151",
+    "imports": ["10.1109/tasl.2012.2210877", "10.1073/pnas.1221464110", "10.1109/icassp.2016.7472897", "10.1109/tsp.2015.2480045", "10.1109/icassp.2013.6637612", "10.1109/taslp.2015.2405475", "10.1109/taslp.2016.2555085", "10.1109/icassp.2009.4959565", "10.1121/1.390163", "10.1121/1.392474", "10.1121/1.412407", "10.1121/1.382599", "10.1109/icassp.2011.5946441", "10.3813/aaa.918076", "10.1016/0003-682x(91)90026-b", "10.1002/9780470612439", "10.1007/978-94-011-3846-8", "10.1016/j.apacoust.2012.11.012", "10.1007/978-3-319-53547-0_7", "10.1007/s11222-014-9461-5", "10.1109/tasl.2010.2050718"],
+    "title": "Kataria_2017_Hearing in a Shoe-Box Binaural Source Position and Wall Absorption Estimation Using Virtually Supervi"
+  },
+  {
+    "size": 31,
+    "name": "10.1109/EUSIPCO.2015.7362417",
+    "imports": ["10.1002/gas.3410120404", "10.21236/ada439776", "10.1787/888933460055", "10.1515/9783110328912.440", "10.1117/12.241981", "10.1017/9781316691458.005", "10.1109/icassp.2009.4959516", "10.1007/978-94-009-6528-7_7", "10.1049/iet-spr.2016.0128", "10.1109/9780470544792.ch4", "10.1007/978-1-137-06320-5_2", "10.1017/s0022112096002248", "10.1186/isrctn25577630", "10.1108/eb015911", "10.1109/89.841214", "10.1109/89.622565", "10.1016/j.sigpro.2004.09.014", "10.1109/waspaa.2013.6701829", "10.1142/s0129065714400036", "10.1007/978-3-662-04437-7", "10.1109/78.934132", "10.1109/waspaa.2013.6701822", "10.4324/9781315806341", "10.1007/978-3-642-37762-4", "10.1002/9781118032527", "10.1109/waspaa.2013.6701876", "10.1109/tap.1986.1143830", "10.1109/iros.2007.4399422", "10.1109/taslp.2014.2351133", "10.1109/icassp.2009.4959563", "10.1109/tasl.2009.2029711"],
+    "title": "Deleforge, Gannot, Kellermann_2015_Towards a generalization of relative transfer functions to more than one source"
+  },
+  {
+    "size": 17,
+    "name": "10.1109/EUSIPCO.2016.7760450",
+    "imports": ["10.1163/2210-7975_hrd-9991-0004", "10.1109/78.934132", "10.1109/tassp.1976.1162830", "10.1109/tsmcb.2002.804369", "10.1109/tasl.2009.2029711", "10.1109/tasl.2012.2183869", "10.1109/icdsp.2014.6900777", "10.1109/eusipco.2015.7362740", "10.1142/s0129065714400036", "10.1201/9781420046052-c1", "10.1007/978-3-642-00599-2_97", "10.1017/cbo9780511550683", "10.1109/glocom.2010.5683407", "10.1023/a:1008981510081", "10.6028/nist.ir.4930", "10.1109/eusipco.2015.7362417", "10.1017/cbo9781316799895.010"],
+    "title": "Deleforge, Forbes_2016_Rectified binaural ratio A complex T-distributed feature for robust sound localization"
+  },
+  {
+    "size": 44,
+    "name": "10.1109/TASLP.2017.2696310",
+    "imports": ["10.1109/icassp.2000.859108", "10.1109/tasl.2009.2029711", "10.1109/iros.2003.1248800", "10.1109/iros.2003.1248813", "10.1109/iros.2006.281849", "10.1109/icassp.2002.5745267", "10.1109/tap.1986.1143830", "10.1109/29.32276", "10.1109/tassp.1976.1162830", "10.1109/icassp.1997.599651", "10.1016/s0165-1684(97)00051-0", "10.1109/icassp.2004.1326212", "10.1016/j.sigpro.2004.09.014", "10.1109/tasl.2008.2004533", "10.1121/1.428310", "10.1155/s111086570330602x", "10.1007/978-3-662-04619-7_8", "10.1109/mlsp.2012.6349784", "10.1109/icassp.2013.6637612", "10.1142/s0129065714400036", "10.1109/tasl.2010.2042128", "10.1109/icassp.2016.7472893", "10.1109/icassp.2015.7178484", "10.1109/icassp.2016.7472893", "10.1109/icassp.2014.6854168", "10.1109/icassp.2016.7472897", "10.1109/tsp.2011.2177973", "10.1109/aspaa.2011.6082267", "10.1109/waspaa.2013.6701829", "10.1109/taslp.2016.2555085", "10.1109/icassp.2016.7472896", "10.1145/1102351.1102455", "10.1145/1143844.1143950", "10.1109/78.934132", "10.1109/tasl.2009.2016395", "10.1007/978-3-319-22482-4_23", "10.7551/mitpress/9780262034890.003.0001", "10.1016/j.acha.2011.06.002", "10.1016/j.acha.2006.04.006", "10.1016/j.acha.2015.09.002", "10.1145/1052655.1052656", "10.1002/9781118557891.ch5", "10.1121/1.382599", "10.1109/icassp.2007.366631"],
+    "title": "Laufer_2016_Semi-Supervised Source Localization on Multiple-Manifolds with Distributed Microphones"
+  },
+  {
+    "size": 1,
+    "name": "10.1121/1.382599",
+    "imports": [],
+    "title": "Image method for efficiently simulating small-room acoustics"
+  },
+  {
+    "size": 1,
+    "name": "10.1142/s0129065714400036",
+    "imports": [],
+    "title": "Acoustic Space Learning for Sound-Source Separation and Localization on Binaural Manifolds"
+  },
+  {
+    "size": 1,
+    "name": "10.1109/taslp.2015.2405475",
+    "imports": [],
+    "title": "Co-Localization of Audio Sources in Images Using Binaural Features and Locally-Linear Regression"
+  },
+  {
+    "size": 1,
+    "name": "10.1016/j.apacoust.2014.10.004",
+    "imports": [],
+    "title": "New device for measuring mapping of sound scattering coefficients of vertical uneven surfaces in a reverberant workplace"
+  },
+  {
+    "size": 1,
+    "name": "10.1121/1.412407",
+    "imports": [],
+    "title": "{HRTF} measurements of a {KEMAR}"
+  },
+  {
+    "size": 1,
+    "name": "10.1109/iros.2006.281849",
+    "imports": [],
+    "title": "Sound Localization for Humanoid Robots - Building Audio-Motor Maps based on the {HRTF}"
+  },
+  {
+    "size": 1,
+    "name": "10.1109/icassp.2017.7952151",
+    "imports": [],
+    "title": "Hearing in a shoe-box: Binaural source position and wall absorption estimation using virtually supervised learning"
+  },
+  {
+    "size": 1,
+    "name": "10.1109/icassp.2014.6854168",
+    "imports": [],
+    "title": "Hearing behind walls: Localizing sources in the room next door with cosparsity"
+  },
+  {
+    "size": 1,
+    "name": "10.1109/tasl.2010.2050718",
+    "imports": [],
+    "title": "Binaural Estimation of Sound Source Distance via the Direct-to-Reverberant Energy Ratio for Static and Moving Sources"
+  },
+  {
+    "size": 1,
+    "name": "10.1109/icassp.2015.7178461",
+    "imports": [],
+    "title": "A machine-hearing system exploiting head movements for binaural sound localisation in reverberant conditions"
+  },
+  {
+    "size": 1,
+    "name": "10.1121/1.3111860",
+    "imports": [],
+    "title": "Numerical study on source-distance dependency of head-related transfer functions"
+  },
+  {
+    "size": 1,
+    "name": "10.1109/taslp.2016.2521486",
+    "imports": [],
+    "title": "A Single-Channel Non-Intrusive C50 Estimator Correlated With Speech Recognition Performance"
+  },
+  {
+    "size": 1,
+    "name": "10.1121/1.1923368",
+    "imports": [],
+    "title": "Extracting the frequencies of the pinna spectral notches in measured head related impulse responses"
+  },
+  {
+    "size": 1,
+    "name": "10.1109/humanoids.2012.6651509",
+    "imports": [],
+    "title": "Online multimodal speaker detection for humanoid robots"
+  },
+  {
+    "size": 1,
+    "name": "10.1109/icassp.2009.4959565",
+    "imports": [],
+    "title": "A fast and accurate {\\&}{\\#}x201C$\\mathsemicolon$shoebox{\\&}{\\#}x201D$\\mathsemicolon$ room acoustics simulator"
+  },
+  {
+    "size": 1,
+    "name": "10.1121/1.1909343",
+    "imports": [],
+    "title": "New Method of Measuring Reverberation Time"
+  },
+  {
+    "size": 1,
+    "name": "10.1121/1.1872572",
+    "imports": [],
+    "title": "Localizing nearby sound sources in a classroom: Binaural room impulse responses"
+  },
+  {
+    "size": 1,
+    "name": "10.1109/aspaa.2011.6082267",
+    "imports": [],
+    "title": "Supervised source localization using diffusion kernels"
+  },
+  {
+    "size": 1,
+    "name": "10.1002/9781119991298.ch14",
+    "imports": [],
+    "title": "Sound Source Separation"
+  },
+  {
+    "size": 1,
+    "name": "10.1121/1.2908264",
+    "imports": [],
+    "title": "Auralization: Fundamentals of Acoustics, Modelling, Simulation, Algorithms, and Acoustic Virtual {RealityAuralization}: Fundamentals of Acoustics, Modelling, Simulation, Algorithms, and Acoustic Virtual {RealityMichaelVorlaenderSpringer}-Verlag, Berlin, 2008. 335 pp.{\\textdollar}129 (hardcover). {ISBN}: 978-3-540-48829-3"
+  },
+  {
+    "size": 1,
+    "name": "10.1109/icassp.2011.5946441",
+    "imports": [],
+    "title": "Time domain reconstruction of spatial sound fields using compressed sensing"
+  },
+  {
+    "size": 1,
+    "name": "10.5860/choice.35-0346",
+    "imports": [],
+    "title": "Spatial hearing: the psychophysics of human sound localization"
+  },
+  {
+    "size": 1,
+    "name": "10.1109/tnn.2007.913988",
+    "imports": [],
+    "title": "Computational Auditory Scene Analysis: Principles, Algorithms, and Applications (Wang, D. and Brown, G.J., Eds.$\\mathsemicolon$ 2006) [Book review]"
+  },
+  {
+    "size": 1,
+    "name": "10.1145/2157689.2157834",
+    "imports": [],
+    "title": "The cocktail party robot"
+  },
+  {
+    "size": 1,
+    "name": "10.1121/1.1907229",
+    "imports": [],
+    "title": "Some Experiments on the Recognition of Speech, with One and with Two Ears"
+  },
+  {
+    "size": 1,
+    "name": "10.1162/0899766054322964",
+    "imports": [],
+    "title": "The Cocktail Party Problem"
+  },
+  {
+    "size": 1,
+    "name": "10.1080/14786440709463595",
+    "imports": [],
+    "title": "{XII}.On our perception of sound direction"
+  },
+  {
+    "size": 1,
+    "name": "10.1146/annurev.psych.42.1.135",
+    "imports": [],
+    "title": "Sound Localization By Human Listeners"
+  },
+  {
+    "size": 1,
+    "name": "10.2307/1418548",
+    "imports": [],
+    "title": "Experimental Psychology"
+  },
+  {
+    "size": 1,
+    "name": "10.1121/1.422784",
+    "imports": [],
+    "title": "Spectro-temporal factors in two-dimensional human sound localization"
+  },
+  {
+    "size": 1,
+    "name": "10.1017/s0263574709990865",
+    "imports": [],
+    "title": "Azimuthal source localization using interaural coherence in a robotic dog: modeling and application"
+  },
+  {
+    "size": 1,
+    "name": "10.1109/waspaa.2013.6701849",
+    "imports": [],
+    "title": "The geometry of sound-source localization using non-coplanar microphone arrays"
+  },
+  {
+    "size": 1,
+    "name": "10.1109/icassp.2010.5496242",
+    "imports": [],
+    "title": "Integrating monaural and binaural analysis for localizing multiple reverberant sound sources"
+  },
+  {
+    "size": 1,
+    "name": "10.1007/978-3-642-28551-6_46",
+    "imports": [],
+    "title": "A Latently Constrained Mixture Model for Audio Source Separation and Localization"
+  },
+  {
+    "size": 1,
+    "name": "10.1109/tasl.2012.2183869",
+    "imports": [],
+    "title": "Binaural Localization of Multiple Sources in Reverberant and Noisy Environments"
+  },
+  {
+    "size": 1,
+    "name": "10.1109/tsp.2004.828896",
+    "imports": [],
+    "title": "Blind Separation of Speech Mixtures via Time-Frequency Masking"
+  },
+  {
+    "size": 1,
+    "name": "10.1002/9780470723494.ch7",
+    "imports": [],
+    "title": "Binaural Cues for a Single Sound Source"
+  },
+  {
+    "size": 1,
+    "name": "10.1142/9789814291279_0053",
+    "imports": [],
+    "title": "2D Binaural Sound Localization: for Urban Search and Rescue Robotics"
+  },
+  {
+    "size": 1,
+    "name": "10.1109/ciisp.2007.369192",
+    "imports": [],
+    "title": "Robotic Localization and Separation of Concurrent Sound Sources using Self-Splitting Competitive Learning"
+  },
+  {
+    "size": 1,
+    "name": "10.1038/1633",
+    "imports": [],
+    "title": "Relearning sound localization with new ears"
+  },
+  {
+    "size": 1,
+    "name": "10.1080/14992020600783004",
+    "imports": [],
+    "title": "A review of learning with normal and altered sound-localization cues in human adults"
+  },
+  {
+    "size": 1,
+    "name": "10.1162/neco.2007.12-05-094",
+    "imports": [],
+    "title": "A Sensorimotor Approach to Sound Localization"
+  },
+  {
+    "size": 1,
+    "name": "10.1017/cbo9781107252950.038",
+    "imports": [],
+    "title": "The New Logics"
+  },
+  {
+    "size": 1,
+    "name": "10.1017/s0140525x01000115",
+    "imports": [],
+    "title": "A sensorimotor account of vision and visual consciousness"
+  },
+  {
+    "size": 1,
+    "name": "10.1037/h0040546",
+    "imports": [],
+    "title": "Movement-produced stimulation in the development of visually guided behavior."
+  },
+  {
+    "size": 1,
+    "name": "10.1109/mlsp.2012.6349784",
+    "imports": [],
+    "title": "2D sound-source localization on the binaural manifold"
+  },
+  {
+    "size": 1,
+    "name": "10.1109/icassp.2013.6637612",
+    "imports": [],
+    "title": "Variational {EM} for binaural sound-source separation and localization"
+  },
+  {
+    "size": 1,
+    "name": "10.1109/ciss.2013.6552257",
+    "imports": [],
+    "title": "Real-time microphone array processing for sound source separation and localization"
+  },
+  {
+    "size": 1,
+    "name": "10.1007/978-3-642-15995-4_14",
+    "imports": [],
+    "title": "Single Microphone Blind Audio Source Separation Using {EM}-Kalman Filter and Short$\\mathplus$Long Term {AR} Modeling"
+  },
+  {
+    "size": 1,
+    "name": "10.1016/b978-0-12-374726-6.00003-5",
+    "imports": [],
+    "title": "Handbook of Blind Source Separation"
+  },
+  {
+    "size": 1,
+    "name": "10.1109/tasl.2010.2050716",
+    "imports": [],
+    "title": "Under-Determined Reverberant Audio Source Separation Using a Full-Rank Spatial Covariance Model"
+  },
+  {
+    "size": 1,
+    "name": "10.1109/tasl.2009.2029711",
+    "imports": [],
+    "title": "Model-Based Expectation-Maximization Source Separation and Localization"
+  },
+  {
+    "size": 1,
+    "name": "10.1007/11752790_2",
+    "imports": [],
+    "title": "Overview and Recent Advances in Partial Least Squares"
+  },
+  {
+    "size": 1,
+    "name": "10.2307/2290563",
+    "imports": [],
+    "title": "Sliced Inverse Regression for Dimension Reduction"
+  },
+  {
+    "size": 1,
+    "name": "10.1198/106186008x345161",
+    "imports": [],
+    "title": "Kernel Sliced Inverse Regression with Applications to Classification"
+  },
+  {
+    "size": 1,
+    "name": "10.1016/0167-9473(89)90043-1",
+    "imports": [],
+    "title": "Mixtures of linear regressions"
+  },
+  {
+    "size": 1,
+    "name": "10.1016/0893-6080(95)00014-3",
+    "imports": [],
+    "title": "Convergence results for the {EM} approach to mixtures of experts architectures"
+  },
+  {
+    "size": 1,
+    "name": "10.1109/icassp.1998.674423",
+    "imports": [],
+    "title": "Spectral voice conversion for text-to-speech synthesis"
+  },
+  {
+    "size": 1,
+    "name": "10.1109/89.661472",
+    "imports": [],
+    "title": "Continuous probabilistic transform for voice conversion"
+  },
+  {
+    "size": 1,
+    "name": "10.1016/j.specom.2007.09.001",
+    "imports": [],
+    "title": "Statistical mapping between articulatory movements and acoustic spectrum using a Gaussian mixture model"
+  },
+  {
+    "size": 1,
+    "name": "10.1109/icassp.2009.4960483",
+    "imports": [],
+    "title": "Mixture of Probabilistic Linear Regressions: A unified view of GMM-based mapping techiques"
+  },
+  {
+    "size": 1,
+    "name": "10.6028/nist.ir.4930",
+    "imports": [],
+    "title": "TIMIT Acoustic-Phonetic Continuous Speech Corpus"
+  },
+  {
+    "size": 1,
+    "name": "10.1137/s1064827502419154",
+    "imports": [],
+    "title": "Principal Manifolds and Nonlinear Dimensionality Reduction via Tangent Space Alignment"
+  },
+  {
+    "size": 1,
+    "name": "10.1214/06-ba126",
+    "imports": [],
+    "title": "Variational Bayesian learning of directed graphical models with hidden variables"
+  },
+  {
+    "size": 1,
+    "name": "10.1109/tsmcb.2002.804369",
+    "imports": [],
+    "title": "Self-localizing dynamic microphone arrays"
+  },
+  {
+    "size": 1,
+    "name": "10.1109/icdsp.2013.6622780",
+    "imports": [],
+    "title": "Two-stage audio-visual speech dereverberation and separation based on models of the interaural spatial cues and spatial covariance"
+  },
+  {
+    "size": 1,
+    "name": "10.1109/tsa.2004.838775",
+    "imports": [],
+    "title": "A generalization of blind source separation algorithms for convolutive mixtures based on second-order statistics"
+  },
+  {
+    "size": 1,
+    "name": "10.1109/aspaa.2007.4393012",
+    "imports": [],
+    "title": "A Two-Stage Frequency-Domain Blind Source Separation Method for Underdetermined Convolutive Mixtures"
+  },
+  {
+    "size": 1,
+    "name": "10.1109/tsa.2005.858005",
+    "imports": [],
+    "title": "Performance measurement in blind audio source separation"
+  },
+  {
+    "size": 1,
+    "name": "10.1098/rsta.2009.0110",
+    "imports": [],
+    "title": "Sufficient dimension reduction and prediction in regression"
+  },
+  {
+    "size": 1,
+    "name": "10.1145/1015330.1015343",
+    "imports": [],
+    "title": "Learning to track 3D human motion from silhouettes"
+  },
+  {
+    "size": 1,
+    "name": "10.1109/tpami.2006.21",
+    "imports": [],
+    "title": "Recovering 3D human pose from monocular images"
+  },
+  {
+    "size": 1,
+    "name": "10.1.1.113.3448",
+    "imports": [],
+    "title": "A probabilistic interpretation of canonical correlation analysis"
+  },
+  {
+    "size": 1,
+    "name": "10.1029/2008JE003171",
+    "imports": [],
+    "title": "Retrieval of Mars surface physical properties from OMEGA hyperspectral images using Regularized Sliced Inverse Regression"
+  },
+  {
+    "size": 1,
+    "name": "10.1126/science.1108806",
+    "imports": [],
+    "title": "OMEGA: Observatoire pour la Min{\\'e}ralogie, l'Eau, les Glaces et l'Activit{\\'e}"
+  },
+  {
+    "size": 1,
+    "name": "10.1162/089976698300017953",
+    "imports": [],
+    "title": "GTM: The Generative Topographic Mapping"
+  },
+  {
+    "size": 1,
+    "name": "10.1016/j.patrec.2011.07.017",
+    "imports": [],
+    "title": "Intrinsic dimension estimation by maximum likelihood in isotropic probabilistic PCA"
+  },
+  {
+    "size": 1,
+    "name": "10.1214/088342306000000682",
+    "imports": [],
+    "title": "Fisher Lecture: Dimension Reduction in Regression"
+  },
+  {
+    "size": 1,
+    "name": "adsabs.harvard.edu/abs/2007LPI....38.1836D",
+    "imports": [],
+    "title": "A Comprehensive Numerical Package for the Modeling of Mars Hyperspectral Images"
+  },
+  {
+    "size": 1,
+    "name": "10.1371/journal.pcbi.1002330",
+    "imports": [],
+    "title": "Joint Modelling of Confounding Factors and Prominent Genetic Regulators Provides Increased Accuracy in Genetical Genomics Studies"
+  },
+  {
+    "size": 1,
+    "name": "10.1111/j.1749-6632.1997.tb51651.x",
+    "imports": [],
+    "title": "Nonlinear Inference and Cluster-Weighted Modeling"
+  },
+  {
+    "size": 1,
+    "name": "10.1.1.48.7824",
+    "imports": [],
+    "title": "The EM algorithm for mixtures of factor analyzers"
+  },
+  {
+    "size": 1,
+    "name": "10.1007/s00357-012-9114-3",
+    "imports": [],
+    "title": "Local Statistical Modeling via a Cluster-Weighted Approach with Elliptical Distributions"
+  },
+  {
+    "size": 1,
+    "name": "10.1080/10705519609540044",
+    "imports": [],
+    "title": "On estimating finite mixtures of multivariate regression and simultaneous equation models"
+  },
+  {
+    "size": 1,
+    "name": "10.1109/ICASSP.1998.674423",
+    "imports": [],
+    "title": "Spectral voice conversion for text-to-speech synthesis"
+  },
+  {
+    "size": 1,
+    "name": "arXiv:1206.4560",
+    "imports": [],
+    "title": "Residual Component Analysis: Generalising {PCA} for more inference in linear-Gaussian models"
+  },
+  {
+    "size": 1,
+    "name": "10.1.1.66.8581",
+    "imports": [],
+    "title": "Probabilistic Non-linear Principal Component Analysis with Gaussian Process Latent Variable Models"
+  },
+  {
+    "size": 1,
+    "name": "10.1080/01621459.1991.10475035",
+    "imports": [],
+    "title": "Sliced Inverse Regression for Dimension Reduction"
+  },
+  {
+    "size": 1,
+    "name": "10.1007/bfb0033290",
+    "imports": [],
+    "title": "Robust cluster analysis via mixtures of multivariate t-distributions"
+  },
+  {
+    "size": 1,
+    "name": "10.1016/S0167-9473(02)00183-4",
+    "imports": [],
+    "title": "Modelling High-dimensional Data by Mixtures of Factor Analyzers"
+  },
+  {
+    "size": 1,
+    "name": "10.1093/biomet/80.2.267",
+    "imports": [],
+    "title": "Maximum likelihood estimation via the ECM algorithm: A general framework"
+  },
+  {
+    "size": 1,
+    "name": "10.1111/1467-9868.00082",
+    "imports": [],
+    "title": "The EM Algorithm-an Old Folk-song Sung to a Fast New Tune"
+  },
+  {
+    "size": 1,
+    "name": "10.1111/1467-9868.00262",
+    "imports": [],
+    "title": "Partial least squares estimator for single-index models"
+  },
+  {
+    "size": 1,
+    "name": "10.1080/01621459.1978.10480085",
+    "imports": [],
+    "title": "Estimating Mixtures of Normal Distributions and Switching Regressions"
+  },
+  {
+    "size": 1,
+    "name": "10.1023/B:STCO.0000035301.49549.88",
+    "imports": [],
+    "title": "A Tutorial on Support Vector Regression"
+  },
+  {
+    "size": 1,
+    "name": "10.1007/11744078_10",
+    "imports": [],
+    "title": "Multivariate Relevance Vector Machines for Tracking"
+  },
+  {
+    "size": 1,
+    "name": "10.1162/15324430152748236",
+    "imports": [],
+    "title": "Sparse Bayesian Learning and the Relevance Vector Machine"
+  },
+  {
+    "size": 1,
+    "name": "10.1162/089976699300016728",
+    "imports": [],
+    "title": "Mixtures of Probabilistic Principal Component Analyzers"
+  },
+  {
+    "size": 1,
+    "name": "10.1111/1467-9868.00196",
+    "imports": [],
+    "title": "Probabilistic Principal Component Analysis"
+  },
+  {
+    "size": 1,
+    "name": "10.1007/978-1-4615-5703-6_3",
+    "imports": [],
+    "title": "Support Vector Method for Function Approximation, Regression Estimation and Signal Processing"
+  },
+  {
+    "size": 1,
+    "name": "arXiv:1212.6246",
+    "imports": [],
+    "title": "Gaussian process regression with heteroscedastic or non-Gaussian residuals"
+  },
+  {
+    "size": 1,
+    "name": "10.1007/bf02296193",
+    "imports": [],
+    "title": "Factor analysis with (mixed) observed and latent variables in the exponential family"
+  },
+  {
+    "size": 1,
+    "name": "10.1198/106186008X345161",
+    "imports": [],
+    "title": "Kernel sliced inverse regression with applications to classification"
+  },
+  {
+    "size": 1,
+    "name": "oai:CiteSeerX.psu:10.1.1.59.935",
+    "imports": [],
+    "title": "An alternative model for mixtures of experts"
+  },
+  {
+    "size": 1,
+    "name": "10.1109/TNN.2008.2003467",
+    "imports": [],
+    "title": "Fast ML Estimation for the Mixture of Factor Analyzers via an ECM Algorithm"
+  },
+  {
+    "size": 1,
+    "name": "10.1016/s0921-8890(99)00002-0",
+    "imports": [],
+    "title": "A model-based sound localization system and its application to robot navigation"
+  },
+  {
+    "size": 1,
+    "name": "10.1088/0266-5611/25/12/123005",
+    "imports": [],
+    "title": "Problems in synthetic-aperture radar imaging"
+  },
+  {
+    "size": 1,
+    "name": "10.1109/msp.2008.923099",
+    "imports": [],
+    "title": "Linear inverse problems in imaging"
+  },
+  {
+    "size": 1,
+    "name": "10.1016/c2011-0-07261-7",
+    "imports": [],
+    "title": "Diagnostic Ultrasound Imaging: Inside Out"
+  },
+  {
+    "size": 1,
+    "name": "10.1016/b978-1-4832-0011-8.50001-x",
+    "imports": [],
+    "title": "Academic Press: Textbooks in Mathematics"
+  },
+  {
+    "size": 1,
+    "name": "10.1007/978-0-8176-4948-7_7",
+    "imports": [],
+    "title": "Basic Tools from Probability Theory"
+  },
+  {
+    "size": 1,
+    "name": "10.1007/0-387-21827-0_6",
+    "imports": [],
+    "title": "Boundary Value Problems for Maxwell's Equations"
+  },
+  {
+    "size": 1,
+    "name": "10.1109/78.258082",
+    "imports": [],
+    "title": "Matching pursuits with time-frequency dictionaries"
+  },
+  {
+    "size": 1,
+    "name": "10.1016/j.acha.2012.03.006",
+    "imports": [],
+    "title": "The cosparse analysis model and algorithms"
+  },
+  {
+    "size": 1,
+    "name": "10.1088/0266-5611/23/3/007",
+    "imports": [],
+    "title": "Analysis versus synthesis in signal priors"
+  },
+  {
+    "size": 1,
+    "name": "10.1117/12.826663",
+    "imports": [],
+    "title": "Signal restoration with overcomplete wavelet transforms: comparison of analysis and synthesis priors"
+  },
+  {
+    "size": 1,
+    "name": "10.1109/tbme.2007.905408",
+    "imports": [],
+    "title": "Brain Source Localization Using a Fourth-Order Deflation Scheme"
+  },
+  {
+    "size": 1,
+    "name": "10.1137/090757034",
+    "imports": [],
+    "title": "Compressed Remote Sensing of Sparse Objects"
+  },
+  {
+    "size": 1,
+    "name": "10.1109/taslp.2013.2297012",
+    "imports": [],
+    "title": "Structured Sparsity Models for Reverberant Speech Separation"
+  },
+  {
+    "size": 1,
+    "name": "10.1109/icassp.2012.6287804",
+    "imports": [],
+    "title": "Narrowband source localization in an unknown reverberant environment usingwavefield sparse decomposition"
+  },
+  {
+    "size": 1,
+    "name": "10.1109/icassp.2012.6288453",
+    "imports": [],
+    "title": "Room helps: Acoustic localization with finite elements"
+  },
+  {
+    "size": 1,
+    "name": "10.1109/icassp.2012.6289141",
+    "imports": [],
+    "title": "Physics-driven structured cosparse modeling for source localization"
+  },
+  {
+    "size": 1,
+    "name": "10.1109/iwaenc.2014.6953349",
+    "imports": [],
+    "title": "Identification of surface acoustic impedances in a reverberant room using the {FDTD} method"
+  },
+  {
+    "size": 1,
+    "name": "10.1561/2200000016",
+    "imports": [],
+    "title": "Distributed Optimization and Statistical Learning via the Alternating Direction Method of Multipliers"
+  },
+  {
+    "size": 1,
+    "name": "10.1109/79.985676",
+    "imports": [],
+    "title": "Source localization and beamforming"
+  },
+  {
+    "size": 1,
+    "name": "10.1109/tsp.2004.838930",
+    "imports": [],
+    "title": "Maximum likelihood multiple-source localization using acoustic energy measurements with wireless sensor networks"
+  },
+  {
+    "size": 1,
+    "name": "10.1109/icassp.2016.7472897",
+    "imports": [],
+    "title": "Joint estimation of sound source location and boundary impedance with physics-driven cosparse regularization"
+  },
+  {
+    "size": 1,
+    "name": "10.1109/mlsp.2014.6958871",
+    "imports": [],
+    "title": "Brain source localization using a physics-driven structured cosparse representation of {EEG} signals"
+  },
+  {
+    "size": 1,
+    "name": "10.1090/gsm/019/01",
+    "imports": [],
+    "title": "Introduction"
+  },
+  {
+    "size": 1,
+    "name": "10.1137/s1064827596304010",
+    "imports": [],
+    "title": "Atomic Decomposition by Basis Pursuit"
+  },
+  {
+    "size": 1,
+    "name": "10.1016/b978-1-85617-678-1.00012-0",
+    "imports": [],
+    "title": "Speech and Audio Processing"
+  },
+  {
+    "size": 1,
+    "name": "10.1007/978-3-540-72582-4",
+    "imports": [],
+    "title": "Paediatrische Anamnese, Untersuchung, Diagnose"
+  },
+  {
+    "size": 1,
+    "name": "10.21437/interspeech.2016-773",
+    "imports": [],
+    "title": "Joint Sound Source Separation and Speaker Recognition"
+  },
+  {
+    "size": 1,
+    "name": "10.2514/6.2006-2714",
+    "imports": [],
+    "title": "Acoustic Source Localization in Aircraft Interiors Using Microphone Array Technologies"
+  },
+  {
+    "size": 1,
+    "name": "10.1109/icassp.2008.4518142",
+    "imports": [],
+    "title": "Direct computation of sound and microphone locations from time-difference-of-arrival data"
+  },
+  {
+    "size": 1,
+    "name": "10.1007/978-94-011-3846-8",
+    "imports": [],
+    "title": "Ultrasonics"
+  },
+  {
+    "size": 1,
+    "name": "10.3813/aaa.918107",
+    "imports": [],
+    "title": "Formulation of Locally Reacting Surfaces in {FDTD}/K-{DWM} Modelling of Acoustic Spaces"
+  },
+  {
+    "size": 1,
+    "name": "10.1137/1.9780898717839",
+    "imports": [],
+    "title": "Finite Difference Methods for Ordinary and Partial Differential Equations"
+  },
+  {
+    "size": 1,
+    "name": "10.1109/icassp.2014.6854495",
+    "imports": [],
+    "title": "Reduced-rank neural activity index for {EEG}/{MEG} multi-source localization"
+  },
+  {
+    "size": 1,
+    "name": "10.1006/nimg.1999.0454",
+    "imports": [],
+    "title": "Visualization of Magnetoencephalographic Data Using Minimum Current Estimates"
+  },
+  {
+    "size": 1,
+    "name": "10.1007/bf02343542",
+    "imports": [],
+    "title": "Comparing iterative solvers for linear systems associated with the finite difference discretisation of the forward problem in electro-encephalographic source analysis"
+  },
+  {
+    "size": 1,
+    "name": "10.1109/tbme.1972.324138",
+    "imports": [],
+    "title": "The Effect of Media Inhomogeneities Upon Intracranial Electrical Fields"
+  },
+  {
+    "size": 1,
+    "name": "10.1007/s10851-010-0251-1",
+    "imports": [],
+    "title": "A First-Order Primal-Dual Algorithm for Convex Problems with~Applications to Imaging"
+  },
+  {
+    "size": 1,
+    "name": "10.1007/s11228-011-0191-y",
+    "imports": [],
+    "title": "Primal-Dual Splitting Algorithm for Solving Inclusions with Mixtures of Composite, Lipschitzian, and Parallel-Sum Type Monotone Operators"
+  },
+  {
+    "size": 1,
+    "name": "10.1007/s10957-012-0245-9",
+    "imports": [],
+    "title": "A Primal{\\textendash}Dual Splitting Method for Convex Optimization Involving Lipschitzian, Proximable and Linear Composite Terms"
+  },
+  {
+    "size": 1,
+    "name": "10.1007/978-1-4419-9569-8_10",
+    "imports": [],
+    "title": "Proximal Splitting Methods in Signal Processing"
+  },
+  {
+    "size": 1,
+    "name": "10.7554/elife.00184.003",
+    "imports": [],
+    "title": "Figure 1. {RCK}-Regulated K$\\mathplus$Channels. (A) Topology of {RCK}-regulated K$\\mathplus$channels. (B) Functional assembly of single {RCK}-containing channels such as {MthK}. (C) Functional assembly of double {RCK}-containing channels such as {GsuK} in this study."
+  },
+  {
+    "size": 1,
+    "name": "10.1145/1391989.1391995",
+    "imports": [],
+    "title": "Algorithm 887"
+  },
+  {
+    "size": 1,
+    "name": "10.1137/1007028",
+    "imports": [],
+    "title": "Interpolation and Approximation (Philip J. Davis)"
+  },
+  {
+    "size": 1,
+    "name": "10.1007/bf01581204",
+    "imports": [],
+    "title": "On the Douglas{\\textemdash}Rachford splitting method and the proximal point algorithm for maximal monotone operators"
+  },
+  {
+    "size": 1,
+    "name": "10.1137/10079687x",
+    "imports": [],
+    "title": "{LSMR}: An Iterative Algorithm for Sparse Least-Squares Problems"
+  },
+  {
+    "size": 1,
+    "name": "10.1190/1.2215356",
+    "imports": [],
+    "title": "Time-reversal acoustics in complex environments"
+  },
+  {
+    "size": 1,
+    "name": "10.1137/0602010",
+    "imports": [],
+    "title": "Computing the Minimum Fill-In is {NP}-Complete"
+  },
+  {
+    "size": 1,
+    "name": "10.1007/978-1-4612-1474-8_8",
+    "imports": [],
+    "title": "Matrix Computations"
+  },
+  {
+    "size": 1,
+    "name": "10.2307/3619868",
+    "imports": [],
+    "title": "Matrix Computations"
+  },
+  {
+    "size": 1,
+    "name": "10.1007/s004220050191",
+    "imports": [],
+    "title": "Electroencephalogram and visual evoked potential generation in a mathematical model of coupled cortical columns"
+  },
+  {
+    "size": 1,
+    "name": "10.1002/nav.3800020109",
+    "imports": [],
+    "title": "The Hungarian method for the assignment problem"
+  },
+  {
+    "size": 1,
+    "name": "10.1145/1390156.1390273",
+    "imports": [],
+    "title": "{SVM} optimization"
+  },
+  {
+    "size": 1,
+    "name": "10.1137/1.9780898717655.ch12",
+    "imports": [],
+    "title": "Iterative Methods for Large and Sparse Problems: An Overview"
+  },
+  {
+    "size": 1,
+    "name": "10.1137/s1064827502405094",
+    "imports": [],
+    "title": "Crout Versions of {ILU} for General Sparse Matrices"
+  },
+  {
+    "size": 1,
+    "name": "10.1109/jstsp.2015.2400412",
+    "imports": [],
+    "title": "Designing Statistical Estimators That Balance Sample Size, Risk, and Computational Cost"
+  },
+  {
+    "size": 1,
+    "name": "10.1137/1.9780898717938",
+    "imports": [],
+    "title": "Finite Difference Schemes and Partial Differential Equations, Second Edition"
+  },
+  {
+    "size": 1,
+    "name": "10.1117/12.893811",
+    "imports": [],
+    "title": "Learning hierarchical and topographic dictionaries with structured sparsity"
+  },
+  {
+    "size": 1,
+    "name": "10.1109/78.934132",
+    "imports": [],
+    "title": "Signal enhancement using beamforming and nonstationarity with applications to speech"
+  },
+  {
+    "size": 1,
+    "name": "10.1017/cbo9780511666926.006",
+    "imports": [],
+    "title": "Ocean Acoustic Tomograpthy"
+  },
+  {
+    "size": 1,
+    "name": "10.5075/epfl-thesis-2408",
+    "imports": [],
+    "title": "Acoustic goniometry: a spatio temporal approach"
+  },
+  {
+    "size": 1,
+    "name": "10.1016/j.ultras.2013.06.009",
+    "imports": [],
+    "title": "Acoustic source localization"
+  },
+  {
+    "size": 1,
+    "name": "9780849394553",
+    "imports": [],
+    "title": "Fundamentals of acoustic field theory and space-time signal processing"
+  },
+  {
+    "size": 1,
+    "name": "10.1007/978-3-540-48830-9_2",
+    "imports": [],
+    "title": "Fundamentals of acoustics"
+  },
+  {
+    "size": 1,
+    "name": "10.1.1.183.1395",
+    "imports": [],
+    "title": "Analysis versus synthesis in signal priors"
+  },
+  {
+    "size": 1,
+    "name": "http://dx.name.org/10.1016/j.acha.2012.03.006",
+    "imports": [],
+    "title": "The cosparse analysis model and algorithms"
+  },
+  {
+    "size": 1,
+    "name": "10.1137/s0097539792240406",
+    "imports": [],
+    "title": "Sparse Approximate Solutions to Linear Systems"
+  },
+  {
+    "size": 1,
+    "name": "10.1.1.411.7495",
+    "imports": [],
+    "title": "A review of cosparse signal recovery methods applied to sound source localization"
+  },
+  {
+    "size": 1,
+    "name": "10.1.1.310.3891",
+    "imports": [],
+    "title": "Greedy-like algorithms for the cosparse analysis model"
+  },
+  {
+    "size": 1,
+    "name": "10.1109/camsap.2011.6136026",
+    "imports": [],
+    "title": "Recovery of cosparse signals with Greedy Analysis Pursuit in the presence of noise"
+  },
+  {
+    "size": 1,
+    "name": "10.1007/978-1-4471-4075-7_4",
+    "imports": [],
+    "title": "The finite difference method in partial differential equations"
+  },
+  {
+    "size": 1,
+    "name": "10.1007/978-1-4757-4532-0",
+    "imports": [],
+    "title": "Applied Mathematics and Scientific Computing"
+  },
+  {
+    "size": 1,
+    "name": "10.1109/robot.2002.1013493",
+    "imports": [],
+    "title": "Real-time speaker localization and speech separation by audio-visual integration"
+  },
+  {
+    "size": 1,
+    "name": "10.1109/tasl.2012.2210877",
+    "imports": [],
+    "title": "Inference of Room Geometry From Acoustic Impulse Responses"
+  },
+  {
+    "size": 1,
+    "name": "10.1109/tsp.2015.2480045",
+    "imports": [],
+    "title": "Physics-Driven Inverse Problems Made Tractable With Cosparse Regularization"
+  },
+  {
+    "size": 1,
+    "name": "10.1109/taslp.2016.2555085",
+    "imports": [],
+    "title": "Semi-Supervised Sound Source Localization Based on Manifold Regularization"
+  },
+  {
+    "size": 1,
+    "name": "10.1121/1.390163",
+    "imports": [],
+    "title": "Localization of sound in rooms"
+  },
+  {
+    "size": 1,
+    "name": "10.1121/1.392474",
+    "imports": [],
+    "title": "Localization of sound in rooms, {II}: The effects of a single reflecting surface"
+  },
+  {
+    "size": 1,
+    "name": "10.3813/aaa.918076",
+    "imports": [],
+    "title": "Auralization. Fundmamentals of Acoustics, Modelling, Simulation, Algorithms and Acoustic Virtual Reality by Michael Vorlaender"
+  },
+  {
+    "size": 1,
+    "name": "10.1016/0003-682x(91)90026-b",
+    "imports": [],
+    "title": "Natural temporal variability of atmospheric acoustic absorption coefficients"
+  },
+  {
+    "size": 1,
+    "name": "10.1002/9780470612439",
+    "imports": [],
+    "title": "Fundamentals of Acoustics"
+  },
+  {
+    "size": 1,
+    "name": "10.1016/j.apacoust.2012.11.012",
+    "imports": [],
+    "title": "Measuring sound scattering coefficients of uneven surfaces in a reverberant workplace {\\textendash} Principle and validation of the method"
+  },
+  {
+    "size": 1,
+    "name": "10.1002/gas.3410120404",
+    "imports": [],
+    "title": "Changing the way we market gas"
+  },
+  {
+    "size": 1,
+    "name": "10.21236/ada439776",
+    "imports": [],
+    "title": "Spectro-Temporal Modulation Transfer Functions and Speech Intelligibility"
+  },
+  {
+    "size": 1,
+    "name": "10.1787/888933460055",
+    "imports": [],
+    "title": "Urban greenhouse gas emissions are lower than in a number of cities in Australia, Canada and the United States"
+  },
+  {
+    "size": 1,
+    "name": "10.1515/9783110328912.440",
+    "imports": [],
+    "title": "Authors and Abstracts"
+  },
+  {
+    "size": 1,
+    "name": "10.1117/12.241981",
+    "imports": [],
+    "title": "$\\less$title$\\greater$Wavelets: what kind of signal processing is that?$\\less$/title$\\greater$"
+  },
+  {
+    "size": 1,
+    "name": "10.1017/9781316691458.005",
+    "imports": [],
+    "title": "In-Depth Cognitive Processing: Maximizing the {\\textquotedblleft}Long-Term{\\textquotedblright} in Long-Term Memory"
+  },
+  {
+    "size": 1,
+    "name": "10.1109/icassp.2009.4959516",
+    "imports": [],
+    "title": "Robust speech dereverberation based on non-negativity and sparse nature of speech spectrograms"
+  },
+  {
+    "size": 1,
+    "name": "10.1007/978-94-009-6528-7_7",
+    "imports": [],
+    "title": "The Robustness of Selection Procedures Investigated by a Combinatorial Method"
+  },
+  {
+    "size": 1,
+    "name": "10.1049/iet-spr.2016.0128",
+    "imports": [],
+    "title": "Estimating the number of sources in white Gaussian noise: simple eigenvalues based approaches"
+  },
+  {
+    "size": 1,
+    "name": "10.1109/9780470544792.ch4",
+    "imports": [],
+    "title": "Weighting Functions"
+  },
+  {
+    "size": 1,
+    "name": "10.1007/978-1-137-06320-5_2",
+    "imports": [],
+    "title": "Learning to Live Finally"
+  },
+  {
+    "size": 1,
+    "name": "10.1017/s0022112096002248",
+    "imports": [],
+    "title": "Sound radiation from a cylindrical duct. Part 2. Source modelling, nil-shielding directions, and the open-to-ducted transfer function"
+  },
+  {
+    "size": 1,
+    "name": "10.1186/isrctn25577630",
+    "imports": [],
+    "title": "Would continued ventilation during cardiopulmonary bypass reduce lung complications following cardiac surgery?"
+  },
+  {
+    "size": 1,
+    "name": "10.1108/eb015911",
+    "imports": [],
+    "title": "The all-through comprehensive"
+  },
+  {
+    "size": 1,
+    "name": "10.1109/89.841214",
+    "imports": [],
+    "title": "Convolutive blind separation of non-stationary sources"
+  },
+  {
+    "size": 1,
+    "name": "10.1109/89.622565",
+    "imports": [],
+    "title": "A signal subspace tracking algorithm for microphone array processing of speech"
+  },
+  {
+    "size": 1,
+    "name": "10.1016/j.sigpro.2004.09.014",
+    "imports": [],
+    "title": "Time difference of arrival estimation of speech source in a noisy and reverberant environment"
+  },
+  {
+    "size": 1,
+    "name": "10.1109/waspaa.2013.6701829",
+    "imports": [],
+    "title": "Relative transfer function modeling for supervised source localization"
+  },
+  {
+    "size": 1,
+    "name": "10.1007/978-3-662-04437-7",
+    "imports": [],
+    "title": "Advances in Network and Acoustic Echo Cancellation"
+  },
+  {
+    "size": 1,
+    "name": "10.1109/waspaa.2013.6701822",
+    "imports": [],
+    "title": "Geometrically Constrained {TRINICON}-based relative transfer function estimation in underdetermined scenarios"
+  },
+  {
+    "size": 1,
+    "name": "10.4324/9781315806341",
+    "imports": [],
+    "title": "Binaural and Spatial Hearing in Real and Virtual Environments"
+  },
+  {
+    "size": 1,
+    "name": "10.1007/978-3-642-37762-4",
+    "imports": [],
+    "title": "The Technology of Binaural Listening"
+  },
+  {
+    "size": 1,
+    "name": "10.1002/9781118032527",
+    "imports": [],
+    "title": "Principles of Algebraic Geometry"
+  },
+  {
+    "size": 1,
+    "name": "10.1109/waspaa.2013.6701876",
+    "imports": [],
+    "title": "Spotforming using distributed microphone arrays"
+  },
+  {
+    "size": 1,
+    "name": "10.1109/tap.1986.1143830",
+    "imports": [],
+    "title": "Multiple emitter location and signal parameter estimation"
+  },
+  {
+    "size": 1,
+    "name": "10.1109/iros.2007.4399422",
+    "imports": [],
+    "title": "Broadband variations of the {MUSIC} high-resolution method for Sound Source Localization in Robotics"
+  },
+  {
+    "size": 1,
+    "name": "10.1109/taslp.2014.2351133",
+    "imports": [],
+    "title": "Theoretical Framework for the Optimization of Microphone Array Configuration for Humanoid Robot Audition"
+  },
+  {
+    "size": 1,
+    "name": "10.1109/icassp.2009.4959563",
+    "imports": [],
+    "title": "Multidimensional localization of multiple sound sources using averaged directivity patterns of Blind Source Separation systems"
+  },
+  {
+    "size": 1,
+    "name": "10.1163/2210-7975_hrd-9991-0004",
+    "imports": [],
+    "title": "fourth-world-eye-blog-undrip-implementation-apr-21-2010"
+  },
+  {
+    "size": 1,
+    "name": "10.1109/tassp.1976.1162830",
+    "imports": [],
+    "title": "The generalized correlation method for estimation of time delay"
+  },
+  {
+    "size": 1,
+    "name": "10.1109/icdsp.2014.6900777",
+    "imports": [],
+    "title": "Modelling interaural level and phase cues with Student{\\textquotesingle}s t-distribution for robust clustering in {MESSL}"
+  },
+  {
+    "size": 1,
+    "name": "10.1109/eusipco.2015.7362740",
+    "imports": [],
+    "title": "Enforcing consistency in spectral masks using Markov random fields"
+  },
+  {
+    "size": 1,
+    "name": "10.1201/9781420046052-c1",
+    "imports": [],
+    "title": "Complex Random Variables and Stochastic Processes"
+  },
+  {
+    "size": 1,
+    "name": "10.1007/978-3-642-00599-2_97",
+    "imports": [],
+    "title": "Underdetermined Instantaneous Audio Source Separation via Local Gaussian Modeling"
+  },
+  {
+    "size": 1,
+    "name": "10.1017/cbo9780511550683",
+    "imports": [],
+    "title": "{MultivariatetDistributions} and Their Applications"
+  },
+  {
+    "size": 1,
+    "name": "10.1109/glocom.2010.5683407",
+    "imports": [],
+    "title": "Complex Gaussian Ratio Distribution with Applications for Error Rate Calculation in Fading Channels with Imperfect {CSI}"
+  },
+  {
+    "size": 1,
+    "name": "10.1023/a:1008981510081",
+    "imports": [],
+    "title": "Robust mixture modelling using the t distribution"
+  },
+  {
+    "size": 1,
+    "name": "10.1109/eusipco.2015.7362417",
+    "imports": [],
+    "title": "Towards a generalization of relative transfer functions to more than one source"
+  },
+  {
+    "size": 1,
+    "name": "10.1017/cbo9781316799895.010",
+    "imports": [],
+    "title": "Fundamentals of Massive MIMO"
+  },
+  {
+    "size": 1,
+    "name": "10.1109/icassp.2000.859108",
+    "imports": [],
+    "title": "Passive acoustic source localization for video camera steering"
+  },
+  {
+    "size": 1,
+    "name": "10.1109/iros.2003.1248800",
+    "imports": [],
+    "title": "Applying scattering theory to robot audition system: robust sound source localization and extraction"
+  },
+  {
+    "size": 1,
+    "name": "10.1109/iros.2003.1248813",
+    "imports": [],
+    "title": "Robust sound source localization using a microphone array on a mobile robot"
+  },
+  {
+    "size": 1,
+    "name": "10.1109/icassp.2002.5745267",
+    "imports": [],
+    "title": "Maximum-likelihood acoustic source localization: Experimental results"
+  },
+  {
+    "size": 1,
+    "name": "10.1109/29.32276",
+    "imports": [],
+    "title": "{ESPRIT}-estimation of signal parameters via rotational invariance techniques"
+  },
+  {
+    "size": 1,
+    "name": "10.1109/icassp.1997.599651",
+    "imports": [],
+    "title": "A robust method for speech signal time-delay estimation in reverberant rooms"
+  },
+  {
+    "size": 1,
+    "name": "10.1016/s0165-1684(97)00051-0",
+    "imports": [],
+    "title": "A new cepstral prefiltering technique for estimating time delay under reverberant conditions"
+  },
+  {
+    "size": 1,
+    "name": "10.1109/icassp.2004.1326212",
+    "imports": [],
+    "title": "Time delay estimation in the presence of correlated noise and reverberation"
+  },
+  {
+    "size": 1,
+    "name": "10.1109/tasl.2008.2004533",
+    "imports": [],
+    "title": "Disambiguation of {TDOA} Estimation for Multiple Sources in Reverberant Environments"
+  },
+  {
+    "size": 1,
+    "name": "10.1121/1.428310",
+    "imports": [],
+    "title": "Adaptive eigenvalue decomposition algorithm for passive acoustic source localization"
+  },
+  {
+    "size": 1,
+    "name": "10.1155/s111086570330602x",
+    "imports": [],
+    "title": "Robust Adaptive Time Delay Estimation for Speaker Localization in Noisy and Reverberant Acoustic Environments"
+  },
+  {
+    "size": 1,
+    "name": "10.1007/978-3-662-04619-7_8",
+    "imports": [],
+    "title": "Robust Localization in Reverberant Rooms"
+  },
+  {
+    "size": 1,
+    "name": "10.1109/tasl.2010.2042128",
+    "imports": [],
+    "title": "A Probabilistic Model for Robust Localization Based on a Binaural Auditory Front-End"
+  },
+  {
+    "size": 1,
+    "name": "10.1109/icassp.2016.7472893",
+    "imports": [],
+    "title": "Spatial feature learning for robust binaural sound source localization using a composite feature vector"
+  },
+  {
+    "size": 1,
+    "name": "10.1109/icassp.2015.7178484",
+    "imports": [],
+    "title": "A learning-based approach to direction of arrival estimation in noisy and reverberant environments"
+  },
+  {
+    "size": 1,
+    "name": "10.1109/tsp.2011.2177973",
+    "imports": [],
+    "title": "Parametrization of Linear Systems Using Diffusion Kernels"
+  },
+  {
+    "size": 1,
+    "name": "10.1109/icassp.2016.7472896",
+    "imports": [],
+    "title": "Manifold-based Bayesian inference for semi-supervised source localization"
+  },
+  {
+    "size": 1,
+    "name": "10.1145/1102351.1102455",
+    "imports": [],
+    "title": "Beyond the point cloud"
+  },
+  {
+    "size": 1,
+    "name": "10.1145/1143844.1143950",
+    "imports": [],
+    "title": "Deterministic annealing for semi-supervised kernel machines"
+  },
+  {
+    "size": 1,
+    "name": "10.1109/tasl.2009.2016395",
+    "imports": [],
+    "title": "Multichannel Eigenspace Beamforming in a Reverberant Noisy Environment With Multiple Interfering Speech Signals"
+  },
+  {
+    "size": 1,
+    "name": "10.1007/978-3-319-22482-4_23",
+    "imports": [],
+    "title": "A Study on Manifolds of Acoustic Responses"
+  },
+  {
+    "size": 1,
+    "name": "10.7551/mitpress/9780262034890.003.0001",
+    "imports": [],
+    "title": "Learning from the Impossible"
+  },
+  {
+    "size": 1,
+    "name": "10.1016/j.acha.2011.06.002",
+    "imports": [],
+    "title": "Anisotropic diffusion on sub-manifolds with application to Earth structure classification"
+  },
+  {
+    "size": 1,
+    "name": "10.1016/j.acha.2006.04.006",
+    "imports": [],
+    "title": "Diffusion maps"
+  },
+  {
+    "size": 1,
+    "name": "10.1016/j.acha.2015.09.002",
+    "imports": [],
+    "title": "Learning the geometry of common latent variables using alternating-diffusion"
+  },
+
+  {
+    "size": 1,
+    "name": "10.1145/1052655.1052656",
+    "imports": [],
+    "title": "A modified hotelling deflation scheme for inverting matrices"
+  },
+
+  {
+    "size": 1,
+    "name": "10.1002/9781118557891.ch5",
+    "imports": [],
+    "title": "Meteorology and Hydrology"
+  },
+  {
+    "size": 1,
+    "name": "10.1109/icassp.2007.366631",
+    "imports": [],
+    "title": "A Real-Time {SRP}-{PHAT} Source Location Implementation using Stochastic Region Contraction({SRC}) on a Large-Aperture Microphone Array"
+  }
+]

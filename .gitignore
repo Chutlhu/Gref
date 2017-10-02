@@ -99,3 +99,11 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# PDFS large files
+*.pdf
+
+# compressed files
+*.zip
+*.rar
+*.tar
