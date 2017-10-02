@@ -3,7 +3,7 @@ Reference graph visualization
 
 
 ## REQUIRMENTS
-(pdf-extract)[https://github.com/CrossRef/pdfextract]
+[pdf-extract](https://github.com/CrossRef/pdfextract)
 
 Same issue on Ubuntu 15.04 (Linux 3.19.0-31-generic #36-Ubuntu i686)
 Thanks msegado for the work around! used the following procedure on a fresh install.
